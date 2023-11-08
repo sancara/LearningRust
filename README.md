@@ -10,3 +10,9 @@ Repo tracking my learning of Rust programming language
 - Control flow:
     - if, else if, else
     - match (exhaustive, preferable when one variable, "_")
+
+## Day 2
+- infinite loop -> loop
+- conditional loop -> while
+- enum
+- struct
