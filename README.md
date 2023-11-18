@@ -16,3 +16,9 @@ Repo tracking my learning of Rust programming language
 - conditional loop -> while
 - enum
 - struct
+
+
+## Day 3
+- tuples
+- expressions
+- ownership
