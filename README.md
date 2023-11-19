@@ -22,3 +22,8 @@ Repo tracking my learning of Rust programming language
 - tuples
 - expressions
 - ownership
+
+## Day 4
+- impl keyword & functionality
+- vectors
+- String vs &str(String Slice)
