@@ -27,3 +27,9 @@ Repo tracking my learning of Rust programming language
 - impl keyword & functionality
 - vectors
 - String vs &str(String Slice)
+
+## Day 5
+- advanced matching
+- option
+- documentation (cargo doc)
+- standard library (rustup doc)
